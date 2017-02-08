@@ -1,0 +1,20 @@
+{
+  "data": {
+    "photos": [{
+      "filename": "IMG_0045.MOV",
+      "last_modified": "2015-08-18 10:50:41.000000",
+      "file_path": "Media/DCIM/100APPLE/IMG_0045.MOV",
+      "file_id": "50a794cde798753ab76e168c7c6c208f16357c80"
+    }, {
+      "filename": "IMG_0060.mp4",
+      "last_modified": "2015-12-03 11:23:30.000000",
+      "file_path": "Media/DCIM/100APPLE/IMG_0060.mp4",
+      "file_id": "f9bc2375f32f6a9cc22a2324e1459c2e791052ca"
+    }, {
+      "filename": "IMG_0038.JPG",
+      "last_modified": "2015-08-18 10:47:43.000000",
+      "file_path": "Media/DCIM/100APPLE/IMG_0038.JPG",
+      "file_id": "db72c591a13567c4e5f46de8eca76c89ca274b84"
+    }]
+  }
+}

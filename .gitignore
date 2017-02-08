@@ -1,0 +1,14 @@
+node_modules
+bower_components
+dist
+.idea
+.DS_STORE
+coverage
+jspm_packages
+*.log
+*.back.*
+Capfile
+Gemfile
+Gemfile.lock
+src/common/config/appConfig.json
+.sass-cache

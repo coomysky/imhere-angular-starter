@@ -1,0 +1,31 @@
+{
+  "data": {
+    "facebook_messages": [{
+      "handle": "Me ",
+      "attachments": [],
+      "text": "How's it going, this is a message to myself.",
+      "date": "2015-11-09 16:17:14.326699",
+      "from_me": true,
+      "contact": {
+        "phone": "+447478804768",
+        "contact_id": 33
+      },
+      "conversation_id": 1,
+      "group_handles": null,
+      "id": 1
+    }, {
+      "handle": "Me ",
+      "attachments": [],
+      "text": "Hey!",
+      "date": "2016-02-18 12:40:14.079188",
+      "from_me": true,
+      "contact": {
+        "phone": "+447478804768",
+        "contact_id": 33
+      },
+      "conversation_id": 1,
+      "group_handles": null,
+      "id": 2
+    }]
+  }
+}

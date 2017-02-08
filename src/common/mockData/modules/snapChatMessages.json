@@ -1,0 +1,81 @@
+{
+  "data": {
+    "snapchat_messages": [{
+      "handle": "teamsnapchat",
+      "attachments": [],
+      "text": "Chat 2.0 makes it simple to communicate - however you want!",
+      "public": false,
+      "date": "2016-03-30 16:10:47.992000",
+      "from_me": false,
+      "conversation_id": null,
+      "group_handles": null,
+      "id": "437a83c1-d426-43d0-bfaf-f9f395a01320"
+    }, {
+      "handle": "teamsnapchat",
+      "attachments": [],
+      "text": "Tap the 👻 on the Stories screen for more!",
+      "public": false,
+      "date": "2016-03-30 16:10:47.993000",
+      "from_me": false,
+      "conversation_id": null,
+      "group_handles": null,
+      "id": "51c453a5-6417-4ae9-8403-4375da9eb154"
+    }, {
+      "handle": "teamsnapchat",
+      "attachments": [],
+      "text": "Happy Chatting!",
+      "public": false,
+      "date": "2016-03-30 16:10:47.994000",
+      "from_me": false,
+      "conversation_id": null,
+      "group_handles": null,
+      "id": "eb87d133-1eca-4c78-b24c-21b68f2ff1bd"
+    }, {
+      "handle": "teamsnapchat",
+      "attachments": [],
+      "text": "Memories is a new way to save Snaps and Stories on Snapchat.",
+      "public": false,
+      "date": "2016-07-19 09:10:42.780000",
+      "from_me": false,
+      "conversation_id": null,
+      "group_handles": null,
+      "id": "069a2d39-1fc3-4b95-bc75-065c9f3f7f48"
+    }, {
+      "handle": "ritest1",
+      "attachments": [],
+      "text": "This is a text message",
+      "public": false,
+      "date": "2016-05-31 08:59:45.459000",
+      "from_me": true,
+      "conversation_id": null,
+      "group_handles": null,
+      "id": "BB7B2931-F00D-4401-BB49-53F12CDDA17B"
+    }, {
+      "handle": "londonlife2015",
+      "attachments": [{
+        "type": "media",
+        "file_id": "napchat://e70a9a53edcf1b8d23d380e7369db69d4dafe222ad91d3aa2478f947d13e6897\n                  e09a8f1a1a1fd5f6ff7b489d27ce738220ff1a437fccde7459cd6ac15353af119873dfc560caf887bbb5\n                  70dba9691d0b07391ca6cb94cb273fe34101d4cb2c62b22c9e94fee204a00ee3d8e5e9c9b646785ee2ba\n                  c2c59bfd47443505f7f1c79ae2f7153cd4fd3d087e31c94b1e23765e1d49b93aca87ceadc942c14700d7\n                  a52ee07105d6170c4c014fbe72f920"
+      }],
+      "text": null,
+      "public": true,
+      "date": "016-07-18 11:16:14.382000",
+      "from_me": false,
+      "conversation_id": "ondonlife2015",
+      "group_handles": null,
+      "id": "ondonlife2015~1468840574382~7bdbaef1"
+    }, {
+      "handle": "ondonlife2015",
+      "attachments": [{
+        "type": "media",
+        "file_id": "snapchat://bef03b022b3898ee7aefe127af83a2dae38f3ffe546132d3aaffb00e39ac8b4271677a5201\n                  4f9eed328c1297f557496183fbfb0479ba0f54d1e5d3a907a263d3ede4a8b2e0f35dfb3e09415b30c44b83a2b14e8130\n                  754e4cb1503158fd7608bdd83af1253cdac0600c56357719b916bcb9937e492ed805e6bf427e03a05f052be726197a2e7\n                  d2790ed91ff5b88e0857b1bceceb415b34380478eff709d9ba3e1a0576f20e31f1b570ce865d26c426c19"
+      }],
+      "text": null,
+      "public": true,
+      "date": "2016-07-18 10:10:52.529000",
+      "from_me": false,
+      "conversation_id": "londonlife2015",
+      "group_handles": null,
+      "id": "londonlife2015~1468836652529~e85ff09c"
+    }]
+  }
+}

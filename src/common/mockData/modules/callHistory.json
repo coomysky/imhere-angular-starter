@@ -1,0 +1,26 @@
+{
+  "data": {
+    "call_history": [{
+      "duration": 0,
+      "answered": false,
+      "from_me": true,
+      "address": "07523673509",
+      "date": "2016-01-05 14:03:47.079455",
+      "call_type": "Phone"
+    }, {
+      "duration": 0,
+      "answered": false,
+      "from_me": false,
+      "address": "+447523673509",
+      "date": "2016-01-05 14:05:58.726223",
+      "call_type": "FaceTime Video"
+    }, {
+      "duration": 0,
+      "answered": false,
+      "from_me": false,
+      "address": "+447523673509",
+      "date": "2016-01-05 14:06:12.688937",
+      "call_type": "FaceTime Audio"
+    }]
+  }
+}

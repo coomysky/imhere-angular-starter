@@ -1,0 +1,83 @@
+{
+  "data": {
+    "contacts": [{
+      "first_name": "Rene",
+      "last_name": null,
+      "created": "2016-02-25 15:12:06.000000",
+      "organisation": "Reincubate",
+      "modified": "2016-02-25 15:12:06.000000",
+      "records": [{
+        "type": "Phone",
+        "value": "0040763413022"
+      }],
+      "id": 54
+    }, {
+      "first_name": "New 6s Test Contact",
+      "last_name": null,
+      "created": "2016-02-25 15:11:58.000000",
+      "organisation": null,
+      "modified": "2016-02-25 15:12:06.000000",
+      "records": [{
+        "type": "Phone",
+        "value": "1234 5"
+      }, {
+        "type": "Phone",
+        "value": "1337 8899"
+      }],
+      "id": 61
+    }, {
+      "first_name": "test",
+      "last_name": null,
+      "created": "2016-02-25 15:11:59.000000",
+      "organisation": "Apple Inc.",
+      "modified": "2016-02-25 15:12:07.000000",
+      "records": [{
+        "type": "Phone",
+        "value": "1-800-MY-APPLE"
+      }, {
+        "type": "Phone",
+        "value": "0800 039 1010"
+      }, {
+        "type": "URL",
+        "value": "http://www.apple.com"
+      }, {
+        "type": "URL",
+        "value": "http://www.apple.com/uk/"
+      }],
+      "id": 62
+    }, {
+      "first_name": "Test",
+      "last_name": "Account",
+      "created": "2016-02-25 15:12:02.000000",
+      "organisation": null,
+      "modified": "2016-02-25 15:12:07.000000",
+      "records": [{
+        "type": "Email",
+        "value": "test-account@reincubate.com"
+      }],
+      "id": 63
+    }, {
+      "first_name": "Aidan",
+      "last_name": "Fitzpatrick",
+      "created": "2016-02-25 15:11:59.000000",
+      "organisation": null,
+      "modified": "2016-02-25 15:12:07.000000",
+      "records": [{
+        "type": "Email",
+        "value": "aidan@reincubate.com"
+      }],
+      "id": 73
+    }, {
+      "first_name": "Me",
+      "last_name": null,
+      "created": "2016-02-25 15:11:59.000000",
+      "organisation": null,
+      "modified": "2016-02-25 15:12:07.000000",
+      "records": [{
+        "type": "Phone",
+        "value": "+44 7478 804768"
+      }],
+      "id": 33
+    }]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "data": {
+    "devices": [{
+      "id": 11111111,
+      "name": "ipad mini",
+      "modules": [{
+        "id": 1,
+        "name": "snap_chat"
+      }, {
+        "id": 2,
+        "name": "whatsapp_messages"
+      }, {
+        "id": 3,
+        "name": "sms"
+      }, {
+        "id": 4,
+        "name": "contacts"
+      }, {
+        "id": 5,
+        "name": "Call History"
+      }, {
+        "id": 6,
+        "name": "Browser History"
+      }, {
+        "id": 7,
+        "name": "Photos"
+      }]
+    }, {
+      "id": 22222222,
+      "name": "iphone 6s",
+      "modules": [{
+        "id": 1,
+        "name": "snap_chat"
+      }, {
+        "id": 2,
+        "name": "whatsapp_messages"
+      }, {
+        "id": 3,
+        "name": "sms"
+      }, {
+        "id": 4,
+        "name": "contacts"
+      }, {
+        "id": 5,
+        "name": "Call History"
+      }, {
+        "id": 6,
+        "name": "Browser History"
+      }, {
+        "id": 7,
+        "name": "Photos"
+      }]
+    }]
+  }
+}

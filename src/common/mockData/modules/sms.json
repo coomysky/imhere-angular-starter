@@ -1,0 +1,112 @@
+{
+  "data": {
+    "sms": [{
+      "handle": "+447572869515",
+      "attachments": [],
+      "deleted": false,
+      "text": "Hi!",
+      "date": "2015-07-20 10:29:54.000000",
+      "from_me": true,
+      "conversation_id": "+447572869515",
+      "group_handles": null,
+      "type": "SMS",
+      "id": 8
+    }, {
+      "handle": "+447780900602",
+      "attachments": [],
+      "deleted": false,
+      "text": "Blah",
+      "date": "2015-08-12 09:57:14.000000",
+      "from_me": true,
+      "conversation_id": "+447780900602",
+      "group_handles": null,
+      "type": "SMS",
+      "id": 18
+    }, {
+      "handle": "+447780500705",
+      "attachments": [{
+        "filename": "Current Location.loc.vcf",
+        "type": "file",
+        "file_path": "Library/SMS/Attachments/d9/09/6EC76BD9-1258-4DD1-B4C5-9C69C39FBAF3/\n                  Current Location.loc.vcf",
+        "file_id": "5dfb49e92ee40422c2bb10ec435cc659cb9ea8c2"
+      }],
+      "deleted": false,
+      "text": "",
+      "date": "2015-08-12 10:01:43.000000",
+      "from_me": true,
+      "conversation_id": "+447780500705",
+      "group_handles": null,
+      "type": "MMS",
+      "id": 19
+    }, {
+      "handle": "+447780500705",
+      "attachments": [{
+        "filename": "Current Location.loc.vcf",
+        "type": "file",
+        "file_path": "Library/SMS/Attachments/e0/00/B296A081-5E13-468B-839E-62899D48490A/Current\n                  Location.loc.vcf",
+        "file_id": "435871c16d94d532092fb1e1f8aed36fa7be6acd"
+      }],
+      "deleted": false,
+      "text": "￼",
+      "date": "2015-08-12 10:01:46.000000",
+      "from_me": true,
+      "conversation_id": "+447780500705",
+      "group_handles": null,
+      "type": "iMessage",
+      "id": 20
+    }, {
+      "handle": "vodafone",
+      "attachments": [],
+      "deleted": false,
+      "text": "Don't miss out. Get a £10 Bonus Credit when you top up by £10 or more in one go by 17/11/15.\n              Your Bonus Credit will usually be added within 24hrs of your top up and will be valid for 14 days.\n              Terms apply. To stop SMS text STOP to 9774.",
+      "date": "2015-11-13 11:00:17.000000",
+      "from_me": false,
+      "conversation_id": "vodafone",
+      "group_handles": null,
+      "type": "SMS",
+      "id": 40
+    }, {
+      "handle": "test-account@reincubate.com",
+      "attachments": [],
+      "deleted": false,
+      "text": "Test message from test account",
+      "date": "2015-11-17 15:22:53.000000",
+      "from_me": true,
+      "conversation_id": "test-account@reincubate.com",
+      "group_handles": null,
+      "type": "SMS",
+      "id": 45
+    }, {
+      "handle": "chat611499371212104129",
+      "attachments": [],
+      "deleted": false,
+      "text": "This is a group conversation",
+      "date": "2015-11-17 15:25:38.000000",
+      "from_me": true,
+      "conversation_id": "chat611499371212104129",
+      "group_handles": ["test-account@reincubate.com", "+447462934467",
+        "another-test-account@reincubate.com"
+      ],
+      "type": "SMS",
+      "id": 46
+    }, {
+      "handle": "chat611499371212104129",
+      "attachments": [{
+        "filename": "IMG_0050.JPG",
+        "type": "file",
+        "file_path": "Library/SMS/Attachments/85/05/1FEA0BF0-A55B-4C18-9019-DB41EE6909FE/IMG_0050.JPG",
+        "file_id": "850d76893a3023ea85e781548e2ceee2aad8379f"
+      }],
+      "deleted": false,
+      "text": "￼",
+      "date": "2015-11-18 09:56:29.000000",
+      "from_me": true,
+      "conversation_id": "chat611499371212104129",
+      "group_handles": ["test-account@reincubate.com", "+447462934467",
+        "another-test-account@reincubate.com"
+      ],
+      "type": "MMS",
+      "id": 49
+    }]
+  }
+}

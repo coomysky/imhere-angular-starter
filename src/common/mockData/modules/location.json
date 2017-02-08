@@ -1,0 +1,23 @@
+{
+  "data": {
+    "location": [{
+      "model": "iPad6,7",
+      "fmip_id": "J0IgI+b/m3U/z9YU83/9813tnpUUjJjg5J3x11A41DVal/VXVYpVeHYVNSUzmas3",
+      "location": {
+        "latitude": 25.0844384,
+        "date": "2016-08-10 09:26:18.427000",
+        "longitude": 121.5655312
+      },
+      "name": "Jenny's iPad"
+    }, {
+      "model": "iPad mini 4",
+      "fmip_id": "J0IgI+b/m3U/z9YU83/9813tnpUUjJjg5J3x11A41DVal/VXVYpVeHYVNSUzmas3",
+      "location": {
+        "latitude": 25.034853,
+        "date": "2016-08-10 09:20:18.427000",
+        "longitude": 121.560274
+      },
+      "name": "Jenny's iPad"
+    }]
+  }
+}
